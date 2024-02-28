@@ -1,2 +1,1 @@
-# Python-Programming-Assignments yash first github repository
-yash bhosadika he 
+# Python-Programming-Assignments yash first github repositor
